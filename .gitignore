@@ -1,3 +1,4 @@
-twitch_igdb_api_cred.json 
-steam-games-dataset/ 
+credentials.json 
+steam-games-dataset/  
+steam_dataset_clean.csv
 .DS_Store
